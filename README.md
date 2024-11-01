@@ -17,13 +17,13 @@
 const thai = {
   pronouns: ["he", "him"],
   code: [
-    "JavaScript",
-    "HTML",
-    "CSS",
+    JavaScript,
+    HTML,
+    CSS,
   ],
   tools: [
-    "Node",
-    "Git"
+    Node,
+    Git
   ]
 };
 
